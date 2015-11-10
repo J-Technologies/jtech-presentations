@@ -1335,3 +1335,7 @@ html:-moz-full-screen-ancestor {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+strong {
+  color: #E77215;
+}
