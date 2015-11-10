@@ -1,11 +1,6 @@
-# Spark Summit Europe
-## Amsterdam 2015
+## Outline
 
----
-
-## Outline 
-
-- %C% Brief introduction to Spark
+- %C% Introduction to Spark
 - Trends:
   - DataFrames
   - Language agnosticism 
