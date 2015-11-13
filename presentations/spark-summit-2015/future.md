@@ -67,7 +67,18 @@ val hist = ds.groupBy(_.name).mapGroups {
 
 ```
 
+
 --
+
+### More Stuff ...
+
+- DataFrame integration with Streaming and GraphX 
+- Tangsten improvements: inmemory cache, better code generation.
+- More data sources for stereaming. 
+
+--
+
+
 
 ### Unified Data Sources 
 
@@ -78,6 +89,9 @@ Note:
 - Build spark based JIT data warehouse to perform real-time analytics
 - Data sources can be → traditional warehouse, Kafka, Cassandra, S3
 - Recently released REDSHIFT 
+
+
+
 
 
 --
