@@ -2,7 +2,7 @@
 
 --
 
-## Diversity
+### Diversity
 
 <img src="img/industries-using-spark.png" style="border: none;"/>
 
@@ -20,7 +20,7 @@
 
 --
 
-## DataFrames
+### DataFrames
 
 <img src="img/dataframes-trends.png" style="border: none;"/>
 
@@ -30,7 +30,7 @@
 
 --
 
-## Distributions, Dashboards, Notebooks, and drag 'n drop tools
+### Distributions, Dashboards, Notebooks, and drag 'n drop tools
 
 <img src="img/databricks-platform.png" style="border: none; float:left" width="60%"/>
 <img src="img/hortonworks-spark.png" style="border: none; float:right" width="35%"/>
